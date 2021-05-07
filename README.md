@@ -6,10 +6,10 @@ Have a look at the new Timesheet web template from the Webix UI library.
 [Timesheet live demo](https://webix-hub.github.io/timesheet-template/dist/es5/index.html).
 
 The template is ready to become part of any web solution. The features include:
-- list of ongoing projects with tags, tasks, and statuses
-- time spent on each task
-- productivity and progress charts
--- diagrams showing planned and tracked hours
+- list of ongoing projects with tags, tasks, and statuses;
+- time spent on each task;
+- productivity and progress charts;
+-- diagrams showing planned and tracked hours.
 
 This turnkey tool can be downloaded and integrated into any environment.
 
