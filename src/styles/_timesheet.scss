@@ -1,0 +1,78 @@
+.timesheetTable {
+    .customIcon {
+        vertical-align: middle;
+        margin-bottom: 2px;
+        cursor: pointer;
+        &.mdi-checkbox-marked {
+            color: #1CA1C1;
+        }
+        &.mdi-checkbox-blank-outline {
+            color: #94A1B3;
+        }
+    }
+    .webix_first {
+        .webix_cell, &.webix_hcell {
+            padding: 0 7px;
+            display: flex;
+            justify-content: center;
+        }
+    }
+    .flexCol {
+        .webix_cell {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+    .smallTextCol {
+        .webix_cell {
+            font-size: 12px;
+            line-height: 16px;
+        }
+    }
+    .status {
+        color: #fff;
+        text-transform: capitalize;
+        padding: 3px 8px 2px;
+        line-height: 16px;
+        border-radius: 20px;
+        &.draft {
+            background-color: #1CA1C1;
+        }
+        &.final {
+            background-color: #55CD97;
+        }
+    }
+}
+.filter {
+    .mdi {
+        color: #94A1B3;
+    }
+    .webix_inp_label {
+        padding: 1px 0 0;
+    }
+    .webix_placeholder {
+        color: #475466;
+    }
+    .webix_inp_static {
+        border: none;
+        padding-left: 4px;
+        padding-right: 18px;
+        margin-top: 3px;
+        font-size: 12px;
+        &:focus {
+            border: none;
+        }
+    }
+    span.webix_input_icon {
+        width: 20px;
+        margin-top: 2px;
+        padding-left: 0px;
+    }
+}
+.filterList {
+    .webix_list_item {
+        font-size: 12px;
+        line-height: 33px;
+    }
+}

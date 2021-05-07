@@ -1,0 +1,36 @@
+.activityMap {
+    .webix_template {
+        display: flex;
+    }
+}
+.activityTotal {
+    flex-direction: column;
+    justify-content: center;
+}
+.activityItem {
+    padding-left: 14px;
+    position: relative;
+    &:first-of-type {
+        margin-bottom: 8px;
+    }
+    &:before {
+        border-radius: 50%;
+        content: '';
+        width: 4px;
+        height: 4px;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 2px;
+    }
+}
+.planned {
+    &:before {
+        background-color: #8664C6;
+    }
+}
+.tracked {
+    &:before {
+        background-color: #1CA1C1;
+    }
+}

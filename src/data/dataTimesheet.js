@@ -1,0 +1,17 @@
+export const dataTimesheet = [
+	{id: 1, tags: "design", project: "Strand App", tasks: "Send prototype", status: "draft", mon: "02h:00m", tue: "00h:30m", wed: "00h:30m", thu: "01h:00m", fri: "02h:00m", sat: "00h:00m", sun: "00h:00m", total: "07h:00m"},
+	{id: 2, tags: "managment", project: "Stories", tasks: "Approved customer stories", status: "draft", mon: "02h:00m", tue: "01h:00m", wed: "00h:15m", thu: "00h:15m", fri: "00h:30m", sat: "00h:00m", sun: "00h:00m", total: "04h:00m", ch1: "on"},
+	{id: 3, tags: "design", project: "Landing Page", tasks: "Landing page for masterclass", status: "final", mon: "00h:30m", tue: "00h:15m", wed: "01h:00m", thu: "00h:15m", fri: "01h:00m", sat: "00h:00m", sun: "00h:00m", total: "03h:00m"},
+	{id: 4, tags: "managment", project: "Analytics Plan", tasks: "Overall gols and success metrics", status: "draft", mon: "02h:00m", tue: "01h:30m", wed: "00h:15m", thu: "00h:15m", fri: "01h:00m", sat: "00h:00m", sun: "00h:00m", total: "05h:00m"},
+	{id: 5, tags: "development", project: "Website", tasks: "Website development", status: "draft", mon: "01h:00m", tue: "01h:00m", wed: "00h:30m", thu: "02h:00m", fri: "01h:00m", sat: "00h:00m", sun: "00h:00m", total: "05h:30m"},
+	{id: 6, tags: "design", project: "Strand App", tasks: "Define grid for editor", status: "draft", mon: "01h:30m", tue: "00h:30m", wed: "01h:00m", thu: "00h:15m", fri: "00h:15m", sat: "00h:00m", sun: "00h:00m", total: "03h:30m"},
+	{id: 7, tags: "content", project: "Campaining", tasks: "Campaining performance tracking", status: "final", mon: "00h:30m", tue: "00h:30m", wed: "01h:00m", thu: "03h:00m", fri: "01h:00m", sat: "00h:00m", sun: "00h:00m", total: "06h:00m"},
+	{id: 8, tags: "managment", project: "New App", tasks: "Mobile advertising app", status: "final", mon: "01h:00m", tue: "00h:30m", wed: "02h:30m", thu: "01h:00m", fri: "01h:00m", sat: "00h:00m", sun: "00h:00m", total: "06h:00m"},
+	{id: 9, tags: "design", project: "Strand App", tasks: "Update style guide with new colors", status: "draft", mon: "02h:00m", tue: "01h:00m", wed: "00h:30m", thu: "00h:30m", fri: "01h:00m", sat: "00h:00m", sun: "00h:00m", total: "05h:00m"},
+	{id: 10, tags: "managment", project: "Landing Page", tasks: "Define content for landing page", status: "final", mon: "00h:30m", tue: "02h:00m", wed: "01h:30m", thu: "01h:00m", fri: "02h:00m", sat: "00h:00m", sun: "00h:00m", total: "07h:00m"},
+	{id: 11, tags: "content", project: "Report", tasks: "Media plan", status: "final", mon: "01h:30m", tue: "00h:30m", wed: "02h:00m", thu: "01h:00m", fri: "02h:00m", sat: "00h:00m", sun: "00h:00m", total: "06h:00m"},
+	{id: 12, tags: "development", project: "New App", tasks: "Add loading screen after sign up", status: "draft", mon: "02h:00m", tue: "03h:00m", wed: "00h:30m", thu: "01h:30m", fri: "01h:00m", sat: "00h:00m", sun: "00h:00m", total: "08h:00m"},
+	{id: 13, tags: "design", project: "New App", tasks: "Update icons", status: "draft", mon: "00h:30m", tue: "00h:30m", wed: "01h:00m", thu: "01h:00m", fri: "02h:00m", sat: "00h:00m", sun: "00h:00m", total: "05h:00m"},
+	{id: 14, tags: "development", project: "New App", tasks: "Update app signature", status: "draft", mon: "02h:00m", tue: "01h:00m", wed: "00h:30m", thu: "01h:30m", fri: "02h:00m", sat: "00h:00m", sun: "00h:00m", total: "07h:00m"},
+	{id: 15, tags: "content", project: "New App", tasks: "Approved advertising app", status: "draft", mon: "02h:30m", tue: "00h:30m", wed: "01h:00m", thu: "01h:00m", fri: "02h:00m", sat: "00h:00m", sun: "00h:00m", total: "07h:00m"}
+];

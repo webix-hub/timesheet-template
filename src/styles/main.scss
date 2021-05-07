@@ -1,0 +1,45 @@
+@import "header";
+@import "sidebar";
+@import "timesheet";
+@import "activity";
+
+.ellipsis {
+    overflow: hidden;
+    display: block;
+    text-overflow: ellipsis;
+    width: 100%;
+}
+.bgWhite {
+	background-color: #fff;
+}
+.flex {
+	display: flex;
+}
+.smButton {
+	.webix_button {
+		font-size: 12px;
+	}
+	.webix_icon_btn {
+		line-height: 14px;
+	}
+}
+.design {
+	.mdi, &.mdi {
+		color: #8664c6;
+	}
+}
+.development {
+	.mdi, &.mdi {
+		color: #fdbf4c;
+	}
+}
+.content {
+	.mdi, &.mdi {
+		color: #45cbab;
+	}
+}
+.managment {
+	.mdi, &.mdi {
+		color: #5ca7ff;
+	}
+}
